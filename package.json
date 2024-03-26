@@ -8,5 +8,23 @@
   "dependencies": {
     "tslib": "^2.3.0"
   },
-  "sideEffects": false
+  "sideEffects": false,
+  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.0.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Multie/livetools-files.git"
+  },
+  "keywords": [
+    "livetools"
+  ],
+  "author": "Malte Hering <malte.hering@outlook.de>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Multie/livetools-files/issues"
+  },
+  "homepage": "https://github.com/Multie/livetools-files#readme"
 }
